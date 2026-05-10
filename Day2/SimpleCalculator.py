@@ -2,14 +2,20 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 operator = input("Enter operator(+,-,*,/): ")
 
-if (operator == "+"):
+if operator == "+":
     print(num1 + num2)
 
-elif (operator == "-"):
+elif operator == "-":
     print(num1 - num2)
 
-elif (operator == "*"):
+elif operator == "*":
     print(num1 * num2)
 
+elif operator == "/":
+    if num2 == 0:
+        print("Can't divide with 0.")
+    else: 
+        print(num1 / num2)
+
 else:
-    print(num1 / num2)
+    print("Invalid Operator")
