@@ -19,7 +19,7 @@ print(x)
 x = 24
 print("First Variable of x: ", x)
 def hello():
-    global x
+    global x        # Changed value inside function stays same even outside the function
     x = 25
     return x
 print(hello())
