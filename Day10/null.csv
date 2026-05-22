@@ -1,0 +1,31 @@
+ID,Name,Age,Course,Marks,City,Attendance
+1,Shaurya,19.0,Python,90.0,Mumbai,80.0
+2,Alex,,ML,72.0,Jaipur,90.0
+3,,19.0,ML,80.0,,90.0
+4,Ananya,22.0,SQL,80.0,Delhi,70.0
+5,Riya,19.0,Python,72.0,,
+6,Ananya,21.0,Data Analytics,65.0,,
+7,Alex,20.0,Data Analytics,65.0,,70.0
+8,,18.0,Python,90.0,Delhi,70.0
+9,Alex,18.0,,65.0,Mumbai,100.0
+10,Alex,20.0,ML,80.0,Delhi,80.0
+11,Shaurya,21.0,Python,72.0,Mumbai,90.0
+12,Ananya,,SQL,80.0,,80.0
+13,Ananya,19.0,,65.0,,80.0
+14,,19.0,Python,,Mumbai,
+15,Ananya,21.0,,,Mumbai,
+16,Riya,22.0,Python,,Jaipur,
+17,Shaurya,18.0,Data Analytics,72.0,Delhi,80.0
+18,,18.0,ML,,Delhi,70.0
+19,Shaurya,22.0,Data Analytics,65.0,Mumbai,70.0
+20,Kabir,20.0,,65.0,,80.0
+21,Kabir,19.0,Python,80.0,,70.0
+22,Kabir,19.0,Data Analytics,72.0,,70.0
+23,Ananya,19.0,SQL,72.0,Mumbai,
+24,Alex,21.0,ML,72.0,Mumbai,100.0
+25,,,Python,,Mumbai,100.0
+26,Kabir,,ML,65.0,Delhi,
+27,Riya,18.0,Data Analytics,65.0,Delhi,70.0
+28,Ananya,,Python,72.0,Delhi,90.0
+29,Shaurya,21.0,SQL,72.0,Delhi,70.0
+30,Riya,20.0,ML,72.0,Delhi,
